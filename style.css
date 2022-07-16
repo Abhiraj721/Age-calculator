@@ -1,0 +1,28 @@
+
+    body{
+ background: url("img.png");
+        background-repeat: no-repeat;
+        background-size:cover;
+        /*overflow-x: 10%;*/
+        margin: 0px;
+        position: relative;
+        height: 711px;  
+        /* background-attachment: fixed; */
+        background-position: center center;
+       color: white;
+       align-items: center;
+       text-align: center;
+        height: 900px; 
+         }
+.inputdate{
+    height: 100px;
+    width: 124px;
+    font-family:cursive;
+    border-color: rgb(168, 245, 219);
+    border-radius: 12%;
+    background: transparent;
+    backdrop-filter: blur(343px);
+}
+.output{
+    font-family: 'Lexend Deca', sans-serif;
+}
